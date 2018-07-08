@@ -5,6 +5,8 @@ import store from './store'
 
 Vue.config.productionTip = false
 
+// import 'mint-ui/lib/style.css'
+
 new Vue({
   router,
   store,
